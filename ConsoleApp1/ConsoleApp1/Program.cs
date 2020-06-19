@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Text;
-using SimpleChess;
-using System.Net.Mime;
-using System.Text;
+using ConsoleApp1;
 
-namespace ConsoleApp1
+namespace SimpleChess
 {
     class Program
     {
