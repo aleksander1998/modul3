@@ -33,7 +33,7 @@ namespace Oblix1X
                 return description;
 
             }
-            return "Noe feilet , Prøv igjen";
+            return "Noe gikk feilet , Prøv igjen";
         }
 
         private static string AddChildesToDescription(List<Person> children, string description)
